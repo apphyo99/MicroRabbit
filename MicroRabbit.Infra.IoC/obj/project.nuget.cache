@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "acBd42qkDl8rDIWuP2MfKjRqY7Qrmo86W2JknyB7O7a48POJeIiVlV0JM4MArnM+s/Chl/wVjL8Aq8iq9wg2lg==",
+  "success": true,
+  "projectFilePath": "D:\\Data.Personal\\Main.Repo\\rabbitmq\\MicroRabbit\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phonaung\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\phonaung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

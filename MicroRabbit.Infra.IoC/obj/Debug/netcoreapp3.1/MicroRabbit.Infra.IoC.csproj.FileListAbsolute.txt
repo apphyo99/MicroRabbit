@@ -1,0 +1,10 @@
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.deps.json
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.dll
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.pdb
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csproj.AssemblyReference.cache
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.AssemblyInfo.cs
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.dll
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.pdb

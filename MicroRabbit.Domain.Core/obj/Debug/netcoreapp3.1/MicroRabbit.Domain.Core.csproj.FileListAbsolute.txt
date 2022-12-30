@@ -7,3 +7,4 @@ D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Domain.C
 D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
 D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
 D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+D:\Data.Personal\Main.Repo\rabbitmq\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.csproj.AssemblyReference.cache
