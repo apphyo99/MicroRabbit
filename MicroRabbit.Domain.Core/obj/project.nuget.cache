@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tklAnc/Rggus6sp4+AHN2m2D/APr2g06y8OrVi6HwMxCNakZOpwVuU0jw38fDvViwHwaPUik99rkIDT6ueA1ew==",
+  "dgSpecHash": "Kp/w98hJCCtJVWDA4uHIdLqyHjSj+Buz3tUhYAEZjVh6huqMxNfYbPIIDrR3AgvRvTyiyEWDqNeimXvOs9CKZg==",
   "success": true,
   "projectFilePath": "D:\\Data.Personal\\Main.Repo\\rabbitmq\\MicroRabbit\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\phonaung\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\phonaung\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
